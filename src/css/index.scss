@@ -1,0 +1,14 @@
+@import 'colors';
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  color: $grey;
+}
+
+.title {
+  text-align: center;
+  font-size: 4em;
+}
